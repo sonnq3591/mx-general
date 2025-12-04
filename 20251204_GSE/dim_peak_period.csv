@@ -1,0 +1,5 @@
+period_id,period_name,start_time,end_time,description,is_active
+1,Morning Peak,06:00:00,10:00:00,Morning arrival wave,TRUE
+2,Midday,10:00:00,14:00:00,Midday operations,TRUE
+3,Evening Peak,14:00:00,20:00:00,Evening departure/arrival wave,TRUE
+4,Night,20:00:00,06:00:00,Night operations and preparation,TRUE

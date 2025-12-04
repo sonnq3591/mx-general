@@ -1,0 +1,11 @@
+station_id,stand_number,stand_name,description,capacity_13c,capacity_14p,capacity_20ft,capacity_26o,capacity_40ft,capacity_26c,is_storage_location,is_active,total_capacity
+1,661,Stand 661,Area fully occupied with empty container racks,50,0,0,0,0,0,TRUE,TRUE,50
+2,678,Stand 678,Area marked for bus staging,0,0,0,0,0,0,FALSE,TRUE,0
+3,668,Stand 668,Baggage area for small dollies staging,238,0,0,0,0,0,TRUE,TRUE,238
+4,699,Stand 699,"OSS baggage, OAL empty containers, lashing belts, blankets",80,0,0,100,0,50,TRUE,TRUE,230
+5,621,Stand 621,Space available for 16 pallet dollies,0,16,0,20,0,10,TRUE,TRUE,46
+6,625,Stand 625,Space shared with cargo,50,10,5,30,0,15,TRUE,TRUE,110
+7,632,Stand 632,Space available for 39 pallet dollies,0,39,5,40,0,20,TRUE,TRUE,104
+8,641,Stand 641,Space available for 43 pallet dollies,0,43,5,45,1,25,TRUE,TRUE,119
+9,643,Stand 643,Space available for 16 pallet dollies,0,16,0,25,0,12,TRUE,TRUE,53
+10,647,Stand 647,Space available for 49 pallet dollies,0,49,10,50,0,30,TRUE,TRUE,139

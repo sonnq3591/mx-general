@@ -1,0 +1,6 @@
+scenario_id,scenario_name,scenario_type,description,parameter_changed,parameter_value,is_baseline,is_active
+1,Baseline,Baseline,Current operations with existing equipment allocation,None,None,TRUE,TRUE
+2,Add 10 Dollies Stn 621,Capacity,Add 10 pallet dollies to high-traffic Station 621,capacity_pallet_dolly,Station 621: +10 units,FALSE,TRUE
+3,Add 20 Trolleys Stn 608,Capacity,Add 20 baggage trolleys to baggage handling area,capacity_baggage_trolley,Station 608: +20 units,FALSE,TRUE
+4,Redistribute from 647,Redistribution,Move surplus equipment from Station 647 to 621 & 632,redistribution_rule,"647 to 621: 5, 647 to 632: 5",FALSE,TRUE
+5,Peak Demand +20%,Demand,Simulate 20% increase in peak period demand,demand_multiplier,Peak periods: 1.2x,FALSE,TRUE

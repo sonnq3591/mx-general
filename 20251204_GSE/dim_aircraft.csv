@@ -1,0 +1,11 @@
+aircraft_id,aircraft_series,aircraft_category,fleet_count,fleet_pct,typical_pax,typical_cargo_kg,typical_bags,uld_positions,is_active
+1,A380,Widebody,10,17.5,496,15000,645,38,TRUE
+2,B777,Widebody,3,5.3,350,12000,455,32,TRUE
+3,B747,Widebody,4,7.0,400,14000,520,36,TRUE
+4,A350,Widebody,3,5.3,300,10000,390,28,TRUE
+5,B787,Widebody,3,5.3,280,9000,364,24,TRUE
+6,A330,Widebody,1,1.8,260,8000,338,22,TRUE
+7,A321,Narrowbody,11,19.3,200,3500,260,10,TRUE
+8,A320,Narrowbody,14,24.6,180,2500,234,7,TRUE
+9,B737,Narrowbody,3,5.3,162,2000,211,6,TRUE
+10,E190,Narrowbody,5,8.8,100,1000,130,3,TRUE

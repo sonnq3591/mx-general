@@ -1,0 +1,7 @@
+equipment_id,asset_code,asset_type,equipment_category,capacity_ton,units_in_operation,aircraft_category,description,is_active
+1,13C,LD3 Container Dolly,Dolly,1.6,810,Narrowbody,For LD3 containers on narrowbody aircraft,TRUE
+2,14P,10 FT Pallet Dolly,Dolly,7.0,945,Widebody,Standard pallet dolly for widebody aircraft,TRUE
+3,20FT,20 FT Pallet Dolly,Dolly,14.0,60,Widebody,Large pallet dolly for heavy cargo,TRUE
+4,26-O,Open Baggage Trolley,Trolley,2.0,542,All,Open trolley for bulk baggage,TRUE
+5,40FT,40FT Pallet Dolly,Dolly,20.0,1,Widebody,Extra-large pallet dolly for oversized cargo,TRUE
+6,26-C,Closed Baggage Trolley,Trolley,3.5,252,All,Enclosed trolley for weather protection,TRUE
